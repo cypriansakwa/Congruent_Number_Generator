@@ -1,5 +1,5 @@
 [package]
-name = "Congruent_to"
+name = "Congruent_Number_Generator"
 version = "0.1.0"
 edition = "2021"
 
