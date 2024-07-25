@@ -5,3 +5,6 @@ The program creates two sequences of numbers:
 
 1. Positive Congruent Numbers: Those that are congruent to a specific number modulo a given modulus, beginning with the stated number and increasing by the modulus.
 2. Negative Congruent Numbers: Those that are congruent to a particular number modulo a given modulus, beginning with the stated number and decreasing by the modulus.
+
+3. git clone https://github.com/cypriansakwa/Congruent_Number_Generator
+.git cd Congruent_Number_Generator
